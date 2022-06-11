@@ -1,0 +1,21 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.18.0",
+    "@tensorflow/tfjs-node": "^3.18.0",
+    "axios": "^0.27.2",
+    "fastify": "^4.0.0",
+    "image-downloader": "^4.3.0",
+    "jsnumpy": "^1.1.10",
+    "nodemon": "^2.0.16"
+  }
+}

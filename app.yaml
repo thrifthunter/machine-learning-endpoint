@@ -1,0 +1,3 @@
+runtime: nodejs16
+entrypoint: "npm start"
+instance_class: F4_1G
